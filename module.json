@@ -1,0 +1,13 @@
+{
+    "name": "GuoTest",
+    "alias": "guotest",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\GuoTest\\Providers\\GuoTestServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
