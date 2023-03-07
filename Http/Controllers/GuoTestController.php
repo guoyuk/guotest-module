@@ -9,7 +9,7 @@ use Illuminate\Routing\Controller;
 class GuoTestController extends Controller
 {
     /**
-     * Display a listing of the resource.
+     * Display a listing of the resource.1111
      * @return Renderable
      */
     public function index()
